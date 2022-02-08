@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A chronicle of Blake Mason's research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+### Hi! I'm Blake Mason, a postdoctoral research fellow at [Rice University](https://rice.edu){: style="color: blue; opacity: 0.80;"} studying machine learning.  
+
+I am currently a postdoctoral fellow within the [DSP Group](http://dsp.rice.edu){: style="color: blue; opacity: 0.80;" } under the guidance of Richard Baraniuk. Before moving to Houston, I did my doctorate in electrical and computer engineering in [Robert Nowak's lab](https://nowak.ece.wisc.edu/){: style="color: blue; opacity: 0.80;" } the University of Wisconin--Madison. Before coming to Madison, I did my Bachelors in Electrical Engineering at the University of Southern California. Outside of my studies, I publish poetry, sing in the choir, and love to swim!
+
+
+### Research Focus:
+
+My research is focused on developing new machine learning algorithms and theory in settings where data is scarce, noisy, and/or hard to collect. I leverage statistical and algorithmic tools to study active learning methods that make optimal use of these limited data to study problems that are otherwise infeasible with passive learning techniques. Additionally, I am passionate about leveraging machine learning to improve education. I have collaborated with educational psychologists to develop new tools to understand students' comprehension and am currently collaborating with researchers to use active learning techniques to develop intellingent, adaptive textbooks. My work has been applied to a variety of applications such as efficeintly performing multiple testing, studying chemistry education in large classrooms, and developing new alagorithms for nearest neighbor search.
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -48,3 +58,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
