@@ -1,7 +1,7 @@
 ---
 title: "Learning Low Dimensional Metrics"
 collection: publications
-permalink: /publication/2022-02-07-low-dim-metrics
+permalink: /publication/2017-02-07-low-dim-metrics
 excerpt: 'This paper investigates the theoretical foundations of metric learning.'
 date: 2017-12-01
 venue: 'Neural Information Processing Systems'
