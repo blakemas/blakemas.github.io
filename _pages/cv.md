@@ -27,7 +27,6 @@ Selected Research and Industry Experience
   * Projects (Ongoing):
     * Connecting membership inference to overparamterization
     * Active learning for knowledge graphs for intelligent textbooks
-    * Active learning for indentifying optimal interventions in causal graphs
 
 * August, 2015 - August 2021: University of Wisconsin--Madison
   * Role: Graduate Research Assistant
@@ -57,10 +56,12 @@ Skills
   * Multi-armed bandits
   * Active learning
   * Metric learning
+  * Level set estimation
 * Python
   * NumPy
   * Pandas
   * SciPy
+  * Pytorch
 * Latex
 * MatLab
 
