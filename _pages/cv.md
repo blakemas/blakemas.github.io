@@ -77,7 +77,7 @@ Service and leadership
 * September, 2017 - September 2018: GODDESSES seminar
   * Founded and led a graduate student only Optimization and Machine Learning speaker series where students can practice scientific communication skills and get feedback on research ideas.
 * August, 2012 - May, 2015: Moneythink
-  * I was the predident of the chapter of Moneythink at the University of Southern California. Through Moneythink, I taught financial literacy in Los Angeles high schools and oversaw the teaching of over 400 students as president. 
+  * I was the president of the chapter of Moneythink at the University of Southern California. Through Moneythink, I taught financial literacy in Los Angeles high schools and oversaw the teaching of over 400 students as president. 
 
 <!-- Talks
 ======
